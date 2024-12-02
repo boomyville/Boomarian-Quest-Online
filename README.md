@@ -6,6 +6,8 @@ An online collectable card battler game based using PHP, Javascript, JQuery, Boo
 
 I created this during the start of lockdown back in 2020 after losing my job.
 
+I updated it December 2024 with some AI generated images for the cards using Imagen and Dall-E
+
 It is an extension of a text-based browser game that I made back in 2013-2014
 
 I was playing a lot of Slay the Spire during this time and tinkering around with my home lab where I installed my old project on my Raspberry Pi 4. 
