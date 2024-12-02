@@ -16,9 +16,9 @@ I then thought to myself, I could probably make a card game based off my existin
 
 ## Screenshots
 
-![Demo](https://github.com/boomyville/Boomarian-Quest-Online/blob/main/Screenshots/mobile_battle.gif?raw=true)
+![Demo](https://github.com/boomyville/Online-Collectable-Card-Game/blob/main/Screenshots/mobile_battle.gif?raw=true)
 
-![Demo](https://github.com/boomyville/Boomarian-Quest-Online/blob/main/Screenshots/regular_battle.gif?raw=true)
+![Demo](https://github.com/boomyville/Online-Collectable-Card-Game/blob/main/Screenshots/regular_battle.gif?raw=true)
 
 ## Technologies used
 
@@ -35,13 +35,13 @@ The MySQL database stores all the information of the game including
 - Monster stats
 - Skills
 
-![Demo](https://github.com/boomyville/Boomarian-Quest-Online/blob/main/Screenshots/database1.png)
-![Demo](https://github.com/boomyville/Boomarian-Quest-Online/blob/main/Screenshots/database2.png)
-![Demo](https://github.com/boomyville/Boomarian-Quest-Online/blob/main/Screenshots/database3.png)
+![Demo](https://github.com/boomyville/Online-Collectable-Card-Game/blob/main/Screenshots/database1.png)
+![Demo](https://github.com/boomyville/Online-Collectable-Card-Game/blob/main/Screenshots/database2.png)
+![Demo](https://github.com/boomyville/Online-Collectable-Card-Game/blob/main/Screenshots/database3.png)
 
 There was a plan for players to attack other players but I never got around to implementing that (there is an auto-battle feature that would've been used for this)
 
-![Auto-battle](https://github.com/boomyville/Boomarian-Quest-Online/blob/main/Screenshots/auto_battle.gif?raw=true)
+![Auto-battle](https://github.com/boomyville/Online-Collectable-Card-Game/blob/main/Screenshots/auto_battle.gif?raw=true)
 
 ## How to install
 
@@ -65,7 +65,7 @@ register_mail.php
 - This requires a gmail address as well as OAUTH tokens and Gmail secrets
 - Follow the PHPMailer instructions
 
-![Demo](https://github.com/boomyville/Boomarian-Quest-Online/blob/main/Screenshots/register.png)
+![Demo](https://github.com/boomyville/Online-Collectable-Card-Game/blob/main/Screenshots/register.png)
 
 register.php, password_reset.php and verify.php
 - Password reset uses Google's recaptcha to make sure bots don't spam new accounts
