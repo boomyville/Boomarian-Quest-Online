@@ -1,4 +1,4 @@
-# Boomarian Quest Online
+# Online Collectable Card Game
 
 ## Introduction
 
