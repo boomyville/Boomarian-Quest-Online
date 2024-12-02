@@ -53,8 +53,7 @@ register_mail.php
 
 register.php, password_reset.php and verify.php
 - Password reset uses Google's recaptcha to make sure bots don't spam new accounts
-- We need to provide recaptcha token here for it [Uploading install.php…]()
-to work
+- We need to provide recaptcha token here for it to work
 - User accounts require email validation to be active
 - Passwords are secured using AES-256 and secret_key stored in config.php
 - Passwords are stored as an encrypted string on the mySQL database 
