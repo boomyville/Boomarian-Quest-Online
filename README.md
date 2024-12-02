@@ -12,6 +12,12 @@ I was playing a lot of Slay the Spire during this time and tinkering around with
 
 I then thought to myself, I could probably make a card game based off my existing work. And as the lockdowns dragged on, this project became my new job
 
+## Screenshots
+
+![Demo](https://github.com/boomyville/Boomarian-Quest-Online/blob/main/Screenshots/mobile_battle.gif?raw=true)
+
+![Demo](https://github.com/boomyville/Boomarian-Quest-Online/blob/main/Screenshots/regular_battle.gif?raw=true)
+
 ## Technologies used
 
 Bootstrap 4 is used to provide the CSS for our cards. This was the first time I used bootstrap 4. 
@@ -27,7 +33,13 @@ The MySQL database stores all the information of the game including
 - Monster stats
 - Skills
 
+![Demo](https://github.com/boomyville/Boomarian-Quest-Online/blob/main/Screenshots/database1.png)
+![Demo](https://github.com/boomyville/Boomarian-Quest-Online/blob/main/Screenshots/database2.png)
+![Demo](https://github.com/boomyville/Boomarian-Quest-Online/blob/main/Screenshots/database3.png)
+
 There was a plan for players to attack other players but I never got around to implementing that (there is an auto-battle feature that would've been used for this)
+
+![Auto-battle](https://github.com/boomyville/Boomarian-Quest-Online/blob/main/Screenshots/auto_battle.gif?raw=true)
 
 ## How to install
 
@@ -51,6 +63,8 @@ register_mail.php
 - This requires a gmail address as well as OAUTH tokens and Gmail secrets
 - Follow the PHPMailer instructions
 
+![Demo](https://github.com/boomyville/Boomarian-Quest-Online/blob/main/Screenshots/register.png)
+
 register.php, password_reset.php and verify.php
 - Password reset uses Google's recaptcha to make sure bots don't spam new accounts
 - We need to provide recaptcha token here for it to work
@@ -68,5 +82,3 @@ config.php
 Run install.php to install the game
 - This file has an explanation of all the tables and columns in the database
 - Database configuration is required for adding new skills and monsters to the game
-
-## Screenshots
